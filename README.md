@@ -6,3 +6,7 @@ I am learning Git and GitHub.
 
 This is my first hands-on project.
 
+
+
+I have learned git add, commit, and push.
+
